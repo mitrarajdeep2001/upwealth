@@ -1,4 +1,3 @@
-import heroImg from "../images/hero_img.png";
 import heroLeftImg from "../images/hero_img_left.png";
 import arrowDownImg from "../images/arrow-down.png";
 
